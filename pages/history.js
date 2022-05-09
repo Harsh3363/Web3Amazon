@@ -4,7 +4,7 @@ import Header from '../components/Header'
 import { AmazonContext } from '../context/AmazonContext'
 import Transaction from '../components/Transaction'
 
-const history = () => {
+const History = () => {
 
     const styles = {
         container: `h-full w-full flex bg-[#fff]`,
@@ -42,4 +42,4 @@ const {ownedItems} = useContext(AmazonContext)
   )
 }
 
-export default history
+export default History
