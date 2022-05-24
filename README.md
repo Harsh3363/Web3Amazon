@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Web-3 Amazon
+
+A Nft Market Place, decetralized market to buy nft using custom token which could be brought using real Ethereum present in your wallet.
+
+![Screenshot (71)](https://user-images.githubusercontent.com/72756692/170044525-4f105252-84ee-416a-a3b2-e89946e9f416.png)
+
+
 ## Getting Started
 
 First, run the development server:
